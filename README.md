@@ -1,10 +1,10 @@
-## Задание 1
+# Задания
 
-Отчет по найденным багам находится здесь: [task1/README.md](task1/README.md)
+## Задание 1
+- **Отчет по найденным багам**: [task1/README.md](task1/README.md)
+
+---
 
 ## Задание 2
-
-Инструкция находится здесь: [task2/README.md](task2/README.md)
-
-Отчет по найденным багам находится здесь:
-[task2/BUGS.md](task2/README.md)
+- **Инструкция**: [task2/README.md](task2/README.md)
+- **Тест-кейсы**: [task2/TESTCASES.md](task2/TESTCASES.md)
